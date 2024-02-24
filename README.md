@@ -1,3 +1,7 @@
+# Source: https://academy.patika.dev/courses/react-native/odev_1
+### My Youtube: https://www.youtube.com/@AminAslami/videos
+### My Linkedin: 
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
